@@ -1,0 +1,28 @@
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\bin\Debug\net6.0-windows\WPF Bind Map Lesson.exe
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\bin\Debug\net6.0-windows\WPF Bind Map Lesson.deps.json
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\bin\Debug\net6.0-windows\WPF Bind Map Lesson.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\bin\Debug\net6.0-windows\WPF Bind Map Lesson.dll
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\bin\Debug\net6.0-windows\WPF Bind Map Lesson.pdb
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\bin\Debug\net6.0-windows\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.g.resources
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.csproj.CopyComplete
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.dll
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\refint\WPF Bind Map Lesson.dll
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.pdb
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\WPF Bind Map Lesson.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\ref\WPF Bind Map Lesson.dll
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\ResourceDictionaries\PushPinDesignRD.baml
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\App.baml
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\ResourceDictionaries\ToolTipStyleRD.baml
+C:\Users\hasan\source\repos\WPF Bind Map Lesson\WPF Bind Map Lesson\obj\Debug\net6.0-windows\ResourceDictionaries\ImageSourcesRD.baml

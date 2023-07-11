@@ -1,0 +1,45 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="ToolTip">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ToolTip">
+                    <Border Width="350" Height="300" CornerRadius="10" Background="White">
+                        <Grid Width="350" Height="300">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="4*"/>
+                            </Grid.RowDefinitions>
+
+                            <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <TextBlock Text="{Binding Bus.PREV_STOP}" FontSize="15" FontWeight="Medium"/>
+                                <TextBlock Text=" - "/>
+                                <TextBlock Text="{Binding Bus.CURRENT_STOP}" FontSize="15" FontWeight="Medium"/>
+                            </WrapPanel>
+
+                            <StackPanel Grid.Row="1" HorizontalAlignment="Center">
+                                <Line Stroke="Red" StrokeThickness="5" X1="0" Y1="0" X2="350" Y2="0"/>
+                                <TextBlock Text="{Binding Bus.BUS_ID}" FontSize="12" FontWeight="Medium" HorizontalAlignment="Center" Margin="0 25 0 0"/>
+                                <Image Source="{DynamicResource BusImage}"/>
+                                
+                                <StackPanel Margin="0 50 0 0" Orientation="Horizontal" HorizontalAlignment="Center">
+                                    <TextBlock Text="Cari : "/>
+                                    <TextBlock Text="{Binding Bus.PREV_STOP}"/>
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                    <TextBlock Text="Novbeti : "/>
+                                    <TextBlock Text="{Binding Bus.CURRENT_STOP}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        
+                        </Grid>
+                        
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+</ResourceDictionary>

@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:map="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF">
+    <Style TargetType="map:Pushpin" x:Name="pp">
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="map:Pushpin" x:Name="Push">
+                    <Border Width="21" Height="21" CornerRadius="11" Background="{TemplateBinding Background}">
+                        <Border Width="16" Height="16" CornerRadius="8" Background="White">
+                            <TextBlock Text="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type map:Pushpin}}, Path=Content}" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10" FontWeight="Medium"/>
+                        </Border>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>
